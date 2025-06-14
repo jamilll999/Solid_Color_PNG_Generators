@@ -9,7 +9,7 @@ This is a lightweight Python script for generating solid color PNG images.
 
 - Generate solid color PNGs with customizable width, height, num. of PNGs, and random color
 - Outputs `.png` images
-- Open-source and easy to modify
+- Open-source and very easy to modify
 
 ## 😐 Memory Warning
 
