@@ -1,6 +1,6 @@
 # Solid Color PNG Generators
 
-Originally developed for a client in June 2021.  
+Originally developed for a client in June 2022.  
 This is a lightweight Python script for generating solid color PNG images.
 
 *The client has granted permission to release this code as open source (MIT License).*
