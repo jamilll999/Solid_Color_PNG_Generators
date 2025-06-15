@@ -6,9 +6,13 @@ This is a lightweight Python script for generating solid color PNG images.
 *The client has granted permission to release this code as open source (MIT License).*
 
 ## Disclaimer ⚠️⚠️⚠️: 
-This tool is intended for educational and non-malicious purposes only. Please do not use it to generate excessively large image files for denial-of-service or other abusive scenarios. 
 
-**Please use responsibly. You are solely accountable for any consequences arising from misuse.**
+**This tool is intended strictly for educational and non-malicious purposes. It also demonstrates how high-resolution parallelized image generation can result in unexpectedly large memory footprints and stress-test local systems.**
+
+**Do not use it to generate image files with the intent to disrupt, overwhelm, or impair the functionality of software, devices, or networks.**
+
+**By using this tool, you accept full responsibility for any consequences resulting from its misuse.  
+Use with caution. Handle with care. Think before you `run`.**
 
 ## ❤️ Features
 
@@ -18,8 +22,8 @@ This tool is intended for educational and non-malicious purposes only. Please do
 
 ## 😐 Memory Warning
 
-**Be careful when setting very large image dimensions (e.g. over 100,000 x 100,000).  
-Your system may run out of memory, freeze, or crash depending on available RAM.**
+Be careful when setting very large image dimensions (e.g. over 100,000 x 100,000).  
+**Your system may run out of memory, freeze, or crash depending on available RAM.**
  
 # Installation
 Make sure you have Python 3.x installed.
